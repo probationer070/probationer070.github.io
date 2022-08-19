@@ -8,7 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: jaehwan Park
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: kogish13328@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,9 +17,9 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: true
   flickr:
-  github: kssim
+  github: probationer070
   google_plus:
   instagram:
   keybase:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: true
   vimeo:
   wordpress:
   youtube:
