@@ -5,7 +5,7 @@ Learning Archives for cl_victor
 
 ### learning 
 
-(bit)
+(Little bit)
 
 #### Others
 * AI (Tensorflow)
