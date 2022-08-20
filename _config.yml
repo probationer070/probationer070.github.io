@@ -1,14 +1,14 @@
 # Site settings
 title: A.P
 baseurl: "/ap"
-url: "https://probationer070.github.io/"
+url: "https://kssim.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: jaehwan Park
+  name: KyeongSeob Sim
   desc: Hello nice to meet you
-  email: kogish13328@gmail.com
+  email: ksub0912@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -17,9 +17,9 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: true
+  facebook: Test
   flickr:
-  github: probationer070
+  github: kssim
   google_plus:
   instagram:
   keybase:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: true
+  twitter: Test
   vimeo:
   wordpress:
   youtube:
