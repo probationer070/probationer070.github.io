@@ -1,15 +1,15 @@
 # Site settings
 title: A.P
 baseurl: "/ap"
-url: "https://probationer070.github.io/"
+url: "https://probationer070.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: jaehwan Park
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  desc: Hello
+  email: kogish13328@gmail.com
+  selfie: assets/img/profile_my.jpg
 
 # social
 social:
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: probationer070
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/probationer070/ 
   pinterest:
   reddit:
   soundcloud:
